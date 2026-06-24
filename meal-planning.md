@@ -11,19 +11,19 @@ Planning for a family. Factor in:
 - My wife
 - My eldest
 - My youngest
-- Preferences and constraints: *[add here — dietary requirements, dislikes, allergies]*
+- Preferences and constraints: no strict dietary requirements; no allergies; adults - preference for spicy food, slow cooker recipes in winter and at weekends, easy to prepare meals during the week when things are at their busiest; eldest - loves carbonara, likes pasta meatballs, will eat ham sandwiches for ever; youngest - eats pasta all the time, but doesn't eat much at meal times, doesn't eat enough vegetables for all the activity he does
 
 ---
 
 ## My preferences
 
 *[Fill in as relevant:]*
-- Foods I enjoy:
-- Foods I dislike:
-- Cuisines I cook regularly:
-- Cuisines I want to explore more:
-- How much time I realistically have to cook on a weeknight:
-- Weekend cooking — more or less effort than weekdays?
+- Foods I enjoy: spicy food, Indian food, Chinese food, steak, chips, fish, salad 
+- Foods I dislike: cauliflower
+- Cuisines I cook regularly: spicy food, meat dishes in slow cooker
+- Cuisines I want to explore more: Chinese
+- How much time I realistically have to cook on a weeknight: 15 minutes
+- Weekend cooking — more or less effort than weekdays? More effort but use the opportunity to batch cook for meals through the rest of the week
 
 ---
 
