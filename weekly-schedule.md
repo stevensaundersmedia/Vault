@@ -11,10 +11,11 @@ I use AI to help plan my week, balancing professional output with family commitm
 
 | Commitment | Day(s) | Time | Non-negotiable? |
 |---|---|---|---|
-| Gym | | | |
-| Golf | | | |
-| Family time / school | | | |
-| Regular calls / meetings | | | |
+| Gym | Tue, Thu, Sat, Sun | 6am-8am | N |
+| Golf | Fri, Sat, Sun | Fri 5pm-8pm, Sat-Sun PM | N |
+| Family time / school | Mon, Wed, Fri | 7am-8am | Y |
+| Regular calls / meetings | n/a | n/a | Y |
+| Football | Sat & Sun | 9am-11am | Y
 
 ---
 
