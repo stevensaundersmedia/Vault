@@ -40,6 +40,8 @@ Senior strategic counsel on content architecture, audience development, and plat
 
 ## Pipeline
 
+Active strands: Substack (following positive discussions with Nick Asiama and Neil White) and Daphne / Jean Media (exploratory discussions) — see `pipeline.md` for full tracking.
+
 *[Track active conversations in `career/opportunities/` — reference them here at a summary level.]*
 
 ---
