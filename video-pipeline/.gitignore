@@ -1,0 +1,12 @@
+# Generated run artefacts never enter version control.
+# They contain media, transcripts and personal speech.
+/runs/
+runs/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.m4a
+__pycache__/
+*.pyc
+.venv/
