@@ -21,6 +21,45 @@ These are enforced by code, not by convention:
 | Never publish, schedule or make a video public | `privacyStatus` is hard-coded to `private` and `publishAt` is never set. A hand-edited approval asking for anything else is refused. There is no code path to public. |
 | Stop on ambiguous edit boundaries instead of guessing | `vpipe/words.py` and `bin/05_resolve.py` raise `AmbiguityStop` (exit 4) on a non-unique anchor, a missing anchor, a mid-sentence cut, an inverted or overlapping span, or a span below the minimum length. |
 
+## Getting started
+
+```bash
+git clone -b claude/local-ai-video-editing-muz2c5 \
+    https://github.com/stevensaundersmedia/Vault.git
+cd Vault/video-pipeline
+
+bin/00_doctor.py --source /path/to/your-recording.mp4
+```
+
+The doctor checks every dependency, validates your recording, estimates the
+disk space the run will need, and prints the exact install command for
+anything missing. It reads nothing and writes nothing.
+
+Then:
+
+```bash
+bin/run_to_brief.sh  /path/to/your-recording.mp4   # stages 01-04
+# ... editorial pass ...
+bin/run_to_review.sh <run-id>                      # stages 05-08, stops at the gate
+```
+
+On Windows, run the `bin/*.py` stages directly rather than the `.sh` wrappers.
+
+## Doing the editorial pass with a remote assistant
+
+The recording never has to move. Stages 01-04 run locally and produce
+`30_decisions/brief.md` — the editorial rules plus your transcript as numbered
+sentences, a few KB of plain text. That is the only file that needs to travel.
+Send it, get JSON back, save it as `30_decisions/decisions.json`, and run
+`bin/run_to_review.sh`.
+
+**The brief contains a full transcript of everything you said**, including the
+false starts and the post-sign-off chat you are about to cut. Read it before
+you share it. If the recording touches anything confidential, edit those
+sentences out of the brief first — the pipeline only needs the sentences the
+edit will actually quote, and an anchor that no longer matches stops the run
+loudly rather than cutting in the wrong place.
+
 ## Requirements
 
 - **Python 3.11+** — the pipeline itself uses only the standard library.
@@ -39,7 +78,7 @@ These are enforced by code, not by convention:
 
 ```
 video-pipeline/
-  bin/          stage scripts, run in order
+  bin/          stage scripts, run in order (00_doctor first)
   vpipe/        libraries: guards, ffmpeg wrapper, timecode, ASR, resolver, QA
   config/       pipeline.toml — every timing number the pipeline uses
   tests/        unit tests and the synthetic-clip fixture generator
