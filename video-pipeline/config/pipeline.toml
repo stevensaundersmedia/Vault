@@ -1,0 +1,66 @@
+# Deterministic pipeline configuration.
+# Every timing number the pipeline uses lives here or is derived from the
+# source manifest. Nothing is hard-coded in the stage scripts.
+
+[cuts]
+# Padding kept around the first and last word of a retained span, in seconds.
+# Actual cut points are clamped to the midpoint of the surrounding silence,
+# so these are ceilings rather than fixed offsets.
+lead_pad_s = 0.12
+tail_pad_s = 0.28
+
+# A retained span shorter than this is treated as an editorial error and
+# stops the run rather than being silently dropped.
+min_segment_s = 0.40
+
+# Anchors must land on sentence boundaries. When false, a span whose start or
+# end is mid-sentence stops the run. Version one never sets this true.
+allow_nonterminal_anchors = false
+
+[audio]
+# Short ramps at every join. These exist only to prevent waveform
+# discontinuity clicks; they are not a creative fade.
+join_fade_ms = 20
+# ASR working audio.
+asr_sample_rate = 16000
+asr_channels = 1
+
+[review]
+height = 720
+video_codec = "libx264"
+crf = 20
+preset = "medium"
+audio_codec = "aac"
+audio_bitrate = "192k"
+
+[master]
+# Source resolution is preserved; only quality settings are declared here.
+video_codec = "libx264"
+crf = 16
+preset = "slow"
+audio_codec = "aac"
+audio_bitrate = "320k"
+
+[qa]
+silence_threshold_db = -45.0
+silence_min_duration_s = 1.5
+black_min_duration_s = 0.40
+black_pixel_threshold = 0.10
+# Tolerance between the EDL's predicted duration and the rendered duration.
+duration_tolerance_s = 0.25
+# Tolerance between video and audio stream durations in the render.
+av_delta_tolerance_s = 0.10
+# Seconds of context either side of a join quoted in the as-heard report.
+join_context_s = 6.0
+# Overview contact sheet: one tile every N seconds, tiled into a grid.
+overview_interval_s = 15.0
+overview_grid = "6x5"
+# Head and tail windows checked for dead air or black frames.
+edge_check_s = 2.0
+
+[subtitles]
+max_chars_per_line = 42
+max_lines = 2
+max_cue_duration_s = 6.0
+# A pause longer than this inside a cue forces a new cue.
+cue_split_gap_s = 0.60

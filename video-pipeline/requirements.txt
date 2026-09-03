@@ -1,0 +1,14 @@
+# Core pipeline needs NOTHING beyond the Python standard library (3.11+)
+# and ffmpeg/ffprobe on PATH. The optional extras below are per-stage.
+
+# --- Stage 03, ASR backend A (recommended) -------------------------------
+# faster-whisper>=1.0.0
+
+# --- Stage 03, ASR backend B ---------------------------------------------
+# whisper.cpp is a compiled binary, not a pip package.
+# Build from https://github.com/ggerganov/whisper.cpp and put the
+# `whisper-cli` (or legacy `main`) binary on PATH.
+
+# --- Stage 10 only, and only after explicit upload approval ---------------
+# google-api-python-client>=2.100.0
+# google-auth-oauthlib>=1.2.0
