@@ -2,13 +2,13 @@
 
 *This is the most time-sensitive file in the vault. Update it whenever the situation shifts.*
 
-Last updated: June 2026
+Last updated: 18 September 2026
 
 ---
 
 ## Current situation
 
-Working in a consultancy capacity as Director of Digital Content Production. Actively considering whether to leave my current employer. Three paths are live simultaneously.
+Working in a consultancy capacity as Director of Digital Content Production. Actively considering whether to leave my current employer. Racing TV — Path A's strongest live lead — was rejected 14 Sept 2026, so Path B (independent consultancy) is now the path getting the real weight, not just one of three options held open simultaneously.
 
 ---
 
@@ -42,8 +42,8 @@ Currently the least likely outcome. Would require significant change in circumst
 
 - Networking activity: active, primarily at conferences and through direct outreach
 - Opportunities in pipeline: *[list here as they arise — use `career/opportunities/` for detail]*
-- Current opportunities: Powerplay - a cricket startup with one of my former bosses as founder, possible start date of September 2026; Racing TV - currently in the interview process for a Director of Content position, next steps expected July 2026; MKTG FTC opportunity - a six-month fixed-term contract in the sponsorship side of sport, had initial interview Friday June 12, 2026, but have not had any follow-ups since and am presuming no progress for me
-- Consultancy momentum: *[note traction on the AI training proposition]*: Sent plea to IMG bosses on 24-6-26 on the back of a company-wide note about the introduction of AI into working practices, pitching that I want to help and have been doing training to do exactly this; continuing to build out the proposition externally, and have a list of contacts to approach when I am sure I can kick off the 30-day plan as covered by AI with Kyle; documentation nearly completed for that
+- Current opportunities: Racing TV — **rejected 14 Sept 2026** (confirmed by Eddy Forshaw, the recruiting headhunter); no longer live. Powerplay — a cricket startup with a former boss as founder; still open but genuinely stuck, money not yet landed. Deliberately not being treated as a dependency: consultancy is being built independently of whether it lands. MKTG FTC opportunity — no follow-up since the 12 June 2026 interview, presumed dead.
+- Consultancy momentum: pipeline count 15 as of 18 Sept (up from 6 on 24 Jul); revenue still £0. Attended two networking events in the week of 15 Sept, new connections made and being followed up. A consultancy conversation is live with ScorePlay (Andy Yeandle). Hosting a free webinar 25 Sept as the first concrete lead-generation mechanism. First paying engagement targeted for 30 Sept (P3) — own admission this is currently a feeling, not backed by a specific mechanism beyond the webinar. IMG internal proposition status as of 24-6-26: sent a plea to IMG bosses off the back of their company-wide AI note, pitching to lead adoption training; had a list of contacts and a 30-day plan (per session with Kyle) nearly documented — status unconfirmed since, check and update next time this file is touched.
 
 ---
 
@@ -51,4 +51,4 @@ Currently the least likely outcome. Would require significant change in circumst
 
 *[Note what would push you decisively toward one path — e.g. "if X organisation comes back with an offer", "if I land Y as a client".]*
 
-- Currently: if Racing TV progresses and makes me an offer, that would be the strategic and financial play; however, the AI training (internally at IMG and externally) is the one that moves me the most and would become part of the overall consultancy proposition; positioning myself as the Sports AI Guy is appealing but scary
+- Racing TV is no longer a live trigger — that door closed 14 Sept 2026. The AI training / consultancy proposition (internally at IMG and externally) is now the path actually being worked, not just the one that "moves me the most." Positioning as the Sports AI Guy remains the direction; the near-term test is whether P3 (first paying engagement, 30 Sept) actually lands.
