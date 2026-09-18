@@ -62,6 +62,7 @@ Full detail in the `workflows/` folder. At a glance:
 | Interview prep + opportunity assessment | `workflows/interview-prep.md` |
 | Meal planning | `workflows/meal-planning.md` |
 | Research summarisation | `workflows/research-summary.md` |
+| Daily check-in / Friday review / monthly reckoning | `workflows/career-cadence-skill.md` |
 
 ---
 
