@@ -30,7 +30,7 @@ Replace my former employer income with income I control, **without taking a wors
 | Gate | Date | Test |
 |---|---|---|
 | Interim milestone | **30 Nov 2026** | First **£2,000/month contracted** (X1) |
-| Hard gate ("the cliff") | **1 Dec 2026** | If revenue is still zero, **activate the mortgage holiday** |
+| Hard gate ("the cliff") | **1 Dec 2026** | If nothing is **contracted** (X1 = 0), **activate the mortgage holiday**. Paid (X2) is not required: payment timelines make it unrealistic by this date |
 | Metric review | **23 Nov 2026**, then monthly | Does this metric still hold? |
 
 Parallel job search is **standing**, not a fallback triggered by the gate. Applications run alongside the consultancy build every week.
@@ -69,4 +69,4 @@ Track movement week to week. A pipeline that is busy but never moves PENDING -> 
 - If X1 is still 0 and nothing has moved PENDING -> Won, say so first, every week.
 - Stale rows (no movement 2+ weeks at the same stage) are called out by name.
 - Re-confirm this metric monthly, next on **23 Nov 2026**.
-- The 1 Dec test is binary: any contracted or paid revenue by then, or the mortgage holiday is activated. Say how many days remain at every retro.
+- The 1 Dec test is binary: signed contracted revenue (X1 > 0) by 1 Dec, or the mortgage holiday is activated. Payment received is not part of the test. Say how many days remain at every retro.
