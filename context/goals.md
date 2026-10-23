@@ -69,4 +69,4 @@ Track movement week to week. A pipeline that is busy but never moves PENDING -> 
 - If X1 is still 0 and nothing has moved PENDING -> Won, say so first, every week.
 - Stale rows (no movement 2+ weeks at the same stage) are called out by name.
 - Re-confirm this metric monthly, next on **23 Nov 2026**.
-- The 1 Dec test is binary: signed contracted revenue (X1 > 0) by 1 Dec, or the mortgage holiday is activated. Payment received is not part of the test. Say how many days remain at every retro.
+- The 1 Dec test is binary: **any** signed contracted revenue (X1 > 0, of any size, one-off included) by 1 Dec, or the mortgage holiday is activated. Payment received is not part of the test. Say how many days remain at every retro.
