@@ -1,34 +1,31 @@
 # Identity
 
 ## Role
-Director of Digital Content Production — currently operating in a consultancy capacity.
+Founder of **Blue 34 Digital**, an independent digital consultancy: digital strategy, transformation and AI enablement, with sport as the niche. Board adviser. Former Director of Digital Content Production at IMG / European Tour Productions (2023 to August 2026).
 
 ## Career stage
-At a deliberate inflection point. Three possible paths are live simultaneously:
-1. A new senior employment role
-2. Full-time independent consultancy (specialism: AI adoption and team training)
-3. Remaining with current employer (least likely outcome)
-
-The network I am building serves all three paths.
+Building my own business full time since September 2026. Consultancy is the long-term career; employment is a background safety net only.
 
 ## Industry
-Sports media, digital content, sports federations and rights holders.
+Sports media and digital content, sports clubs, federations and rights holders, plus small businesses and solo founders as a door-opener.
 
 ## What I'm known for
-- Senior leadership in digital content production
-- Strategic thinking at the intersection of sport, media, and technology
-- Strong communicator and writer with a distinctive voice
-- Building and leading creative teams
-- Increasingly: AI literacy, adoption strategy, and training
+- Senior leadership in digital content and editorial, across Goal, ESPN and IMG
+- Being good at both the words and the numbers: content and audience growth
+- Building, rebuilding and leading creative teams through change
+- Increasingly: practical AI enablement, and finding the new coalface for teams
+
+## How I show up publicly
+I'm becoming a content creator to drive awareness for the business: learning in public, showing the work as I figure it out. See `content.md`.
 
 ## Personal
 - Husband and father of two (my eldest and my youngest)
 - Golfer
 - Regular gym-goer
-- High-tempo, high-output person
+- High-tempo, high-output person, and hard on myself
 
 ## Time split (approximate)
-- Work (leadership, consulting, networking, creative) — 60%
+- Work (building the business, networking, creating) — 60%
 - Parenting — 25%
 - Golf — 5%
 - Gym — 5%

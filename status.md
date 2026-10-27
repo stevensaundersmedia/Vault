@@ -1,54 +1,61 @@
 # Career Status
 
-*This is the most time-sensitive file in the vault. Update it whenever the situation shifts.*
+*This is the most time-sensitive file in the vault. Update it whenever the situation shifts. The Friday retro checks it is still true.*
 
-Last updated: June 2026
+Last updated: 27 October 2026
 
 ---
 
 ## Current situation
 
-Working in a consultancy capacity as Director of Digital Content Production. Actively considering whether to leave my current employer. Three paths are live simultaneously.
+I left IMG / European Tour Productions at the end of August 2026 via redundancy. I am now building my own business, **Blue 34 Digital**, full time. The job hunt runs in the background as a safety net, not as the plan.
+
+Consultancy is my career now. If I took a staff job, I would treat it as a stopgap, not a return to corporate life.
 
 ---
 
-## The three paths
+## The paths, as they actually stand
 
-### Path A — New employment role
-Seeking a senior role that advances my career in sports media / digital content. Prioritising organisations where I can have genuine impact and where AI literacy is valued or being built.
+### Main path — Blue 34 Digital (consultancy)
+A digital consultancy with sport as the niche and room to work beyond it. Three offers that form one journey:
+1. Digital strategy
+2. Transformation
+3. AI enablement
 
-Key criteria for the right role:
+Lead offer in development: **Stop-Think-Move** for heads of small, overworked sports content teams. Public push planned for Monday 2 November 2026.
+
+Not yet public with the full offer. Building awareness through content first (see `content.md`).
+
+### Background path — Employment
+Applications go out regularly and are tracked in the Notion Pipeline (Employment track). Reactive, not proactive.
+
+Criteria if a role does land:
 - Director level or above
-- Located in London, north-west London, Hertfordshire, Buckinghamshire, Hillingdon or the surrounding area
-- Key culture signal: able to do good work for good people in a supportive environment
-- Deal-breakers: gut-check on whether it "feels" right; if there is no forward progression possible, or it doesn't move me in some way, then it should be a "no"
+- London, north-west London, Hertfordshire, Buckinghamshire, Hillingdon or nearby
+- Good work for good people in a supportive environment
+- Gut check: if it doesn't move me, or there's no forward progression, it's a no
 
-### Path B — Full-time independent consultancy
-Building toward a consultancy proposition centred on:
-1. AI adoption and team training for sports organisations and media companies
-2. RFP consulting for sports federations and rights holders
-3. Digital content strategy
+### Alongside — PowerPlay
+T20 franchise cricket media startup, back off hold as of late October 2026. Sulmaan Ahmad is the founder; Paul Macdonald is an adviser; I'm an adviser and potential MD, and currently the main driver of ideas and research. Worked on in its own claude.ai Project, kept separate from Blue 34.
 
-This path requires: the right client pipeline, 2–3 anchor relationships, and a clear service offer.
-
-### Path C — Remain with current employer
-Currently the least likely outcome. Would require significant change in circumstances.
+### Board advisory
+- **Find Your Tradesmen** (MoorConsultations): ongoing; contract with my solicitor for review.
+- **Spott.me** (Seb White): advisory agreement being negotiated.
 
 ---
 
 ## Active signals
 
-*[Update this section as things develop — conversations had, offers received, doors opening or closing.]*
-
-- Networking activity: active, primarily at conferences and through direct outreach
-- Opportunities in pipeline: *[list here as they arise — use `career/opportunities/` for detail]*
-- Current opportunities: Powerplay - a cricket startup with one of my former bosses as founder, possible start date of September 2026; Racing TV - currently in the interview process for a Director of Content position, next steps expected July 2026; MKTG FTC opportunity - a six-month fixed-term contract in the sponsorship side of sport, had initial interview Friday June 12, 2026, but have not had any follow-ups since and am presuming no progress for me
-- Consultancy momentum: *[note traction on the AI training proposition]*: Sent plea to IMG bosses on 24-6-26 on the back of a company-wide note about the introduction of AI into working practices, pitching that I want to help and have been doing training to do exactly this; continuing to build out the proposition externally, and have a list of contacts to approach when I am sure I can kick off the 30-day plan as covered by AI with Kyle; documentation nearly completed for that
+- **Won:** Backpage Press, paid consultancy, Glasgow, 10 November 2026. First paid Blue 34 engagement.
+- **Pending:** a workshop in Southampton on 4 November 2026.
+- **Pending:** WE Hub workshop proposal.
+- **In conversation:** Creative Sports Network (free workshop, for reps and networking); ScorePlay (well connected, could refer strategy/transformation work).
+- **Closed:** Harrow RFC (declined the workshop).
+- Many other offers are out with no response yet. The Pipeline is the live record.
 
 ---
 
 ## Decision triggers
 
-*[Note what would push you decisively toward one path — e.g. "if X organisation comes back with an offer", "if I land Y as a client".]*
-
-- Currently: if Racing TV progresses and makes me an offer, that would be the strategic and financial play; however, the AI training (internally at IMG and externally) is the one that moves me the most and would become part of the overall consultancy proposition; positioning myself as the Sports AI Guy is appealing but scary
+- Paid work repeating (a second and third paid engagement, or a retainer) confirms the consultancy path and lets the job hunt wind down.
+- PowerPlay funding landing would change how much time it gets; until then it stays alongside, not central.
