@@ -2,7 +2,7 @@
 
 *This is the most time-sensitive file in the vault. Update it whenever the situation shifts. The Friday retro checks it is still true.*
 
-Last updated: 27 October 2026
+Last updated: 1 November 2026
 
 ---
 
@@ -24,7 +24,9 @@ A digital consultancy with sport as the niche and room to work beyond it. Three 
 
 Lead offer in development: **Stop-Think-Move** for heads of small, overworked sports content teams. Public push planned for Monday 2 November 2026.
 
-Not yet public with the full offer. Building awareness through content first (see `content.md`).
+**Release 1** (AI enablement for sports content teams, with the Tally quiz) launches Thursday 5 November 2026: confirmed 1 November.
+
+Not yet public with the full offer. Building awareness through content first (see `content.md`); a Head of Content now runs the content desk from 1 November.
 
 ### Background path — Employment
 Applications go out regularly and are tracked in the Notion Pipeline (Employment track). Reactive, not proactive.
