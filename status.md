@@ -41,8 +41,8 @@ Criteria if a role does land:
 T20 franchise cricket media startup, back off hold as of late October 2026. Sulmaan Ahmad is the founder; Paul Macdonald is an adviser; I'm an adviser and potential MD, and currently the main driver of ideas and research. Worked on in its own claude.ai Project, kept separate from Blue 34.
 
 ### Board advisory
-- **Find Your Tradesmen** (MoorConsultations): ongoing; contract with my solicitor for review.
-- **Spott.me** (Seb White): advisory agreement being negotiated.
+- **Hire Your Tradesmen** (MoorConsultations): ongoing; advisor agreement waiting on a solicitor's review. Lining up the solicitor is the first job on Monday 2 November.
+- **Spott.me** (Seb White): advisory agreement being negotiated; also needs the same solicitor's review, so both contracts wait on that one step.
 
 ---
 
