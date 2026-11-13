@@ -2,13 +2,13 @@
 
 *This is the most time-sensitive file in the vault. Update it whenever the situation shifts. The Friday retro checks it is still true.*
 
-Last updated: 1 November 2026
+Last updated: 13 November 2026
 
 ---
 
 ## Current situation
 
-I left IMG / European Tour Productions at the end of August 2026 via redundancy. I am now building my own business, **Blue 34 Digital**, full time. The job hunt runs in the background as a safety net, not as the plan.
+I left IMG / European Tour Productions at the end of August 2026 via redundancy. I am now building my own business, **Blue 34 Digital**, full time. For now I trade as **Steven Saunders Media**; Blue 34 becomes the trading name once the business is incorporated (incorporation, copyright and trademark advice being lined up via Grow London Local). The job hunt runs in the background as a safety net, not as the plan.
 
 Consultancy is my career now. If I took a staff job, I would treat it as a stopgap, not a return to corporate life.
 
@@ -24,7 +24,7 @@ A digital consultancy with sport as the niche and room to work beyond it. Three 
 
 Lead offer in development: **Stop-Think-Move** for heads of small, overworked sports content teams. Public push planned for Monday 2 November 2026.
 
-**Release 1** (AI enablement for sports content teams, with the Tally quiz) launches Thursday 5 November 2026: confirmed 1 November.
+**Release 1** (AI enablement for sports content teams, with the Tally quiz) launched Thursday 5 November 2026.
 
 Not yet public with the full offer. Building awareness through content first (see `content.md`); a Head of Content now runs the content desk from 1 November.
 
@@ -41,18 +41,21 @@ Criteria if a role does land:
 T20 franchise cricket media startup, back off hold as of late October 2026. Sulmaan Ahmad is the founder; Paul Macdonald is an adviser; I'm an adviser and potential MD, and currently the main driver of ideas and research. Worked on in its own claude.ai Project, kept separate from Blue 34.
 
 ### Board advisory
-- **Hire Your Tradesmen** (MoorConsultations): ongoing; advisor agreement waiting on a solicitor's review. Lining up the solicitor is the first job on Monday 2 November.
-- **Spott.me** (Seb White): advisory agreement being negotiated; also needs the same solicitor's review, so both contracts wait on that one step.
+- **Solicitor:** Richard at Sule, engaged w/c 9 November 2026. He reviewed both advisory contracts.
+- **Spott.me** (Seb White): final agreement ready; signing the weekend of 14–15 November and sending to Seb.
+- **Hire Your Tradesmen** (MoorConsultations): contract back with them after a lot of solicitor amendments; waiting on their response.
 
 ---
 
 ## Active signals
 
-- **Won:** Backpage Press, paid consultancy, Glasgow, 10 November 2026. First paid Blue 34 engagement.
-- **Pending:** a workshop in Southampton on 4 November 2026.
+- **Won and delivered:** Backpage Press, paid consultancy, Glasgow, 10 November 2026. First paid engagement. Invoice due 13 November.
+- **Booked:** Sports Creative Network workshop, Tuesday 17 November 2026 (free). Aim: turn it into paid work at the end.
+- **Pending:** Royston workshop via Nina Mariano Smith (in her hands).
+- **Support:** Winnie Cheng (Grow London Local) is introducing a sales coach, a sales and growth expert and an incorporation/IP adviser. Sales is the problem to solve.
 - **Pending:** WE Hub workshop proposal.
-- **In conversation:** Creative Sports Network (free workshop, for reps and networking); ScorePlay (well connected, could refer strategy/transformation work).
-- **Closed:** Harrow RFC (declined the workshop).
+- **In conversation:** ScorePlay (well connected, could refer strategy/transformation work).
+- **Closed:** Harrow RFC (declined the workshop). Southampton workshop (4 November) did not happen.
 - Many other offers are out with no response yet. The Pipeline is the live record.
 
 ---

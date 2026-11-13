@@ -18,6 +18,8 @@ The retro's job is NOT to triage 20 tasks. It's to check whether they're moving 
 actually reflect that. Lead with accountability and patterns, not task admin. **Be
 direct and push hard** - they set this up to be held to account, not flattered.
 
+> **Steven's setup (13 Nov 2026):** retros live in Notion only, in the *Moving Day — Friday Reviews* database (Career Command Centre). Read past retros from there and write each week's retro as a row there (properties plus the full write-up in the page body). Don't write retro files to this vault. The goal and metrics are in `goals.md`.
+
 ## Source of truth: the context folder
 
 Read the user's goal, key metrics, and saved metric connections from their `context/`
