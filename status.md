@@ -2,7 +2,7 @@
 
 *This is the most time-sensitive file in the vault. Update it whenever the situation shifts. The Friday retro checks it is still true.*
 
-Last updated: 1 November 2026
+Last updated: 20 November 2026 (Friday retro: facts refreshed; brand framing not touched)
 
 ---
 
@@ -22,9 +22,11 @@ A digital consultancy with sport as the niche and room to work beyond it. Three 
 2. Transformation
 3. AI enablement
 
-Lead offer in development: **Stop-Think-Move** for heads of small, overworked sports content teams. Public push planned for Monday 2 November 2026.
+Lead offer in development: **Stop-Think-Move** for heads of small, overworked sports content teams.
 
-**Release 1** (AI enablement for sports content teams, with the Tally quiz) launches Thursday 5 November 2026: confirmed 1 November.
+**Release 1** (AI enablement for sports content teams, with the Tally quiz) launched Thursday 5 November 2026.
+
+North star (agreed 13 November 2026): paid engagements, signed or invoiced. Trading as Steven Saunders Media until Blue 34 is incorporated. Retros live in Notion only (Moving Day — Friday Reviews).
 
 Not yet public with the full offer. Building awareness through content first (see `content.md`); a Head of Content now runs the content desk from 1 November.
 
@@ -41,17 +43,18 @@ Criteria if a role does land:
 T20 franchise cricket media startup, back off hold as of late October 2026. Sulmaan Ahmad is the founder; Paul Macdonald is an adviser; I'm an adviser and potential MD, and currently the main driver of ideas and research. Worked on in its own claude.ai Project, kept separate from Blue 34.
 
 ### Board advisory
-- **Hire Your Tradesmen** (MoorConsultations): ongoing; advisor agreement waiting on a solicitor's review. Lining up the solicitor is the first job on Monday 2 November.
-- **Spott.me** (Seb White): advisory agreement being negotiated; also needs the same solicitor's review, so both contracts wait on that one step.
+- **Hire Your Tradesmen** (MoorConsultations): solicitor (Richard at Sule) amendments sent; waiting on Marvin's response.
+- **Spott.me** (Seb White): advisory agreement signed and counter-signed (18 November 2026).
 
 ---
 
 ## Active signals
 
-- **Won:** Backpage Press, paid consultancy, Glasgow, 10 November 2026. First paid Blue 34 engagement.
-- **Pending:** a workshop in Southampton on 4 November 2026.
-- **Pending:** WE Hub workshop proposal.
-- **In conversation:** Creative Sports Network (free workshop, for reps and networking); ScorePlay (well connected, could refer strategy/transformation work).
+- **Won:** Backpage Press, paid consultancy, Glasgow, delivered 10 November 2026, invoiced 15 November. First paid engagement.
+- **Delivered (free):** Sports Creative Network workshop, 17 November 2026. A paid re-run proposal is next.
+- **Did not happen:** Southampton workshop (4 November).
+- **Cooling:** WE Hub (Jo Sadie): probably not worth pursuing.
+- **In conversation:** 38-0; ScorePlay (well connected, could refer strategy/transformation work).
 - **Closed:** Harrow RFC (declined the workshop).
 - Many other offers are out with no response yet. The Pipeline is the live record.
 
