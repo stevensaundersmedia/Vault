@@ -1,6 +1,6 @@
 # Career Status
 
-*This is the most time-sensitive file in the vault. Update it whenever the situation shifts. The Friday retro checks it is still true.*
+*This is the most time-sensitive file in the vault. Update it whenever the situation shifts. It pairs with `goals.md`: change one, check the other in the same session. The Friday retro checks both are still true and agree.*
 
 Last updated: 20 November 2026 (Friday retro: facts refreshed; brand framing not touched)
 
@@ -26,7 +26,7 @@ Lead offer in development: **Stop-Think-Move** for heads of small, overworked sp
 
 **Release 1** (AI enablement for sports content teams, with the Tally quiz) launched Thursday 5 November 2026.
 
-North star (agreed 13 November 2026): paid engagements, signed or invoiced. Trading as Steven Saunders Media until Blue 34 is incorporated. Retros live in Notion only (Moving Day — Friday Reviews).
+North star (agreed 13 November 2026): paid engagements, signed or invoiced; count and driver in `goals.md`. Trading as Steven Saunders Media until Blue 34 is incorporated. Retros live in Notion only (Moving Day — Friday Reviews).
 
 Not yet public with the full offer. Building awareness through content first (see `content.md`); a Head of Content now runs the content desk from 1 November.
 

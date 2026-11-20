@@ -23,7 +23,7 @@ Todoist owns *when*. Notion owns *who and why*. My Todoist comments are status u
 - **5:30:** morning note, every day. Weekdays: rocks, meetings, one creative step, real decisions. Weekends: one small internal or creative step, never outreach.
 - **12:47 and 17:47 (weekdays):** completed tasks logged into the Pipeline (silent).
 - **17:55 (weekdays):** end-of-day close: what moved, any missing meeting outcomes, tomorrow's rock. Reply or ignore.
-- **Friday 12:00:** weekly retro, including the content scorecard (from the Head of Content's 11:30 review) and a check that `status.md` is still true.
+- **Friday 12:00:** weekly retro, including the content scorecard (from the Head of Content's 11:30 review) and a check that `status.md` and `goals.md` are still true and agree with each other.
 
 ## Protected time
 Weekday school runs 08:05–08:55 and 14:55–15:25; Wednesday 19:00–20:00 football; Thursday 16:30–17:45 swimming; Thursday 18:00–19:00 AI call (my call whether to skip). Saturday is family time except 11:00–12:00 writing; Sunday is family time.
@@ -40,4 +40,4 @@ Weekday school runs 08:05–08:55 and 14:55–15:25; Wednesday 19:00–20:00 foo
 Bristol City is a protected, owner-led relationship: never suggested for outreach until I reopen it.
 
 ## Keeping the vault current
-Whenever circumstances change in a session, the Chief of Staff updates the relevant file before we close. Nothing in this vault reflects personal finances.
+Whenever circumstances change in a session, the Chief of Staff updates the relevant file before we close. `status.md` and `goals.md` are a pair: a change to one means checking the other in the same session (a won or lost paid engagement, a new north star or driver, a change of trading name, a decision trigger hit). If they disagree, fix it there and then and say so in that run's receipt. Nothing in this vault reflects personal finances.
