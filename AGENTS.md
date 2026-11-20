@@ -13,7 +13,7 @@ I'm a sports media executive with 25 years' experience (Goal, ESPN, IMG). I left
 Beyond work, I am a parent of two children (referred to only as my eldest and my youngest), a husband, a golfer, and someone who trains regularly.
 
 For full career detail, read `CV`.  
-For my current situation, read `status.md`.  
+For my current situation, read `status.md`; for the goal and the metric that matters, read `goals.md` (the two are kept in sync).  
 For how I build an audience, read `content.md`.  
 For how my Chief of Staff and I work together, read `chief-of-staff.md`.
 
