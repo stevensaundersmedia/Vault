@@ -51,8 +51,8 @@ T20 franchise cricket media startup, back off hold as of late October 2026. Sulm
 
 ## Active signals
 
-- **Won:** Backpage Press, paid consultancy, Glasgow, delivered 10 November 2026. First paid engagement; invoiced 15 November.
-- **Delivered free:** Sports Creative Network workshop, 17 November (strong room). Paid re-run proposed; awaiting reply.
+- **Won:** Backpage Press, paid consultancy, Glasgow, delivered 10 November 2026. First paid engagement; invoiced 15 November and paid.
+- **Delivered free:** Sports Creative Network workshop, 17 November (strong room). Paid re-run proposed 23 November; no response yet.
 - **In conversation:** 38-0 (advisory format, awaiting their proposal); ScorePlay.
 - **Closed:** Harrow RFC (declined); Southampton workshop (4 November) did not happen; Lucy (not pursuing); Iliffe Media (declined).
 - The Pipeline is the live record.
